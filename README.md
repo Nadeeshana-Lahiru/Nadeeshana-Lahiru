@@ -116,15 +116,3 @@ I'm a passionate **Software Engineering Student** at the **Department of ICT, Fa
   [![Nadeeshana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nadeeshana-Lahiru&theme=tokyo-night&hide_border=true)](https://github.com/Nadeeshana-Lahiru)
   
 </div>
-
----
-
-<div align="center">
-  
-  ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-  
-  ![Profile Views](https://visitcount.itsvg.in/api?id=Nadeeshana-Lahiru&icon=6&color=6)
-  
-  ⭐️ From [Nadeeshana-Lahiru](https://github.com/Nadeeshana-Lahiru)
-  
-</div>
